@@ -305,7 +305,7 @@ export default function Page() {
               </div>
 
               <div className="space-y-4">
-                <div className="flex items-center"><span className="mr-3">📞</span><span className="text-gray-700">+91 92531 77516</span></div>
+                <div className="flex items-center"><span className="mr-3">📞</span><span className="text-gray-700">+91 70151 25044</span></div>
                 <div className="flex items-center"><span className="mr-3">✉️</span><span className="text-gray-700">jeevannshailee@gmail.com</span></div>
                 <div className="flex items-start"><span className="mr-3 mt-1">📍</span><span className="text-gray-700">510 Dhingsara, Fatehabad-Haryana, India 125053</span></div>
               </div>
